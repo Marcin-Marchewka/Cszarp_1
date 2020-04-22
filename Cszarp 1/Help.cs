@@ -25,7 +25,7 @@ namespace Pomoc
 
                         if (wybor[0] == 'y')
                         {
-                            //auto.list.Czyszczenie();
+                            auto.list.Clear();
                             Console.WriteLine("Baza danych zostala oprozniona.");
                             break;
                         }
