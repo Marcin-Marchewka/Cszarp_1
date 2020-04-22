@@ -42,7 +42,7 @@ namespace Plikk
             return true;
         }
 
-        public bool Zapisz(Samochod auto)
+        public bool Zapisz(Auta auto)
         {
             int tryb;
             bool x;
