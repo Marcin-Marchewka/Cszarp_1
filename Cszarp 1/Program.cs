@@ -40,7 +40,7 @@ namespace Program
                         if (warunek)
                         {
                             plik.GetTitle();
-                            //plik.Zapisz(samochody);
+                            plik.Zapisz(samochody);
                         }
                         else
                         {
