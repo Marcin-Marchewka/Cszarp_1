@@ -1,7 +1,0 @@
-Audi	Q8	2018	1398	31000	auto
-BMW	X5	2013	3499	70000	manual
-Opel	Vectra	2010	1998	151000	auto
-Citroen	C3	2005	1598	190000	manual
-BMW	X5	2019	3197	5000	auto
-Opel	Vectra	2003	1998	250000	auto
-Nissan	Micra	2009	1798	78000	manual
